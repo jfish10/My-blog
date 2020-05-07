@@ -6,7 +6,7 @@ module.exports = {
     description: `A personal blog with styled components, dark mode, and Netlify CMS.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `jfish`,
+      linkedin: `jonathanfisher2`,
     },
   },
   plugins: [

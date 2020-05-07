@@ -56,15 +56,15 @@ function SEO({ description, lang, meta, keywords, title }) {
           content: `summary`,
         },
         {
-          name: `twitter:creator`,
+          name: `linkedin:creator`,
           content: site.siteMetadata.author,
         },
         {
-          name: `twitter:title`,
+          name: `linkedin:title`,
           content: title,
         },
         {
-          name: `twitter:description`,
+          name: `linkedin:description`,
           content: metaDescription,
         },
       ]
