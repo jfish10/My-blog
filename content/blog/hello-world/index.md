@@ -3,23 +3,13 @@ title: Hello World
 date: "2020-05-01T22:12:03.284Z"
 ---
 
-This is my first post on my new blog!
+This is my first post on my new blog! Please excuse any mistakes or inconsistencies these first few posts
+as I get used to writing in markdown - https://www.markdownguide.org/.
 
-I'm sure I'll write a lot more interesting things in the future.
+There are a ton of interesting and inspiring posts in the pipeline - stay tuned!
 
-Here's some filler blah blah blah...
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
-
+- Here's an example of adding a feature via markdown!
 ```js
 function helloWorld() {
   console.log("Hello World!")
