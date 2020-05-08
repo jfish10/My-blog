@@ -7,7 +7,7 @@ This is my first post on my new blog!
 
 I'm sure I'll write a lot more interesting things in the future.
 
-Here's some filler with a  quote from this Wikipedia on
+Here's some filler blah blah blah...
 [salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
 
 > A salted duck egg is a Chinese preserved food product made by soaking duck
