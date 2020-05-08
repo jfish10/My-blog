@@ -34,11 +34,11 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
+              Written by <strong>{author}</strong>, who lives and works in the SF Bay Area building useful things, writing stories,
+              and trying to find myself while doing good in the world.
               {` `}
               <a href={`https://linkedin.com/in/${social.linkedin}`}>
-                You should connect with him on LinkedIn
+                You should connect with him on <em>LinkedIn</em>
               </a>
             </p>
           </Container>
